@@ -1,0 +1,13 @@
+# dependency & hasil build
+node_modules/
+dist/
+
+# konfigurasi lokal (bisa sensitif)
+.env
+.env.*
+!.env.example
+
+# log & file editor
+*.log
+.vscode/
+.DS_Store
