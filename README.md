@@ -1,4 +1,4 @@
-# Daftar Tugas Kuliah
+# Aplikasi Daftar Tugas Kuliah
 
 Aplikasi web sederhana untuk mengelola tugas kuliah: tambah, edit, hapus, dan tandai status
 (Belum Selesai / Selesai). Dibuat dengan **TypeScript** dan **Vite** untuk mata kuliah
